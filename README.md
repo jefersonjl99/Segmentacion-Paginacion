@@ -1,0 +1,2 @@
+# Segmentacion-Paginacion
+# Sistemas operativos
